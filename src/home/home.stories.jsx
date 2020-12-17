@@ -10,7 +10,7 @@ const image = {
 }
 
 storiesOf('home', module)
-  .add('welcome!', () => (
+  .add('welcome!!!!!', () => (
     <button
       href="#"
       style={{
